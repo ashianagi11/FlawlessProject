@@ -1,0 +1,56 @@
+body {
+    background-color: #92a8d1;
+
+     
+    
+}
+
+
+#title{
+    padding: 50px 0;
+    text-align: center;
+    font-size: 30px;
+    font-family: Papyrus, fantasy;
+}
+#flawless{
+    position: absolute;
+    left: 50px;
+    padding: 100px;
+}
+/*#blissful{*/
+    /*position: absolute;*/
+    /*right: 2px;*/
+    /*padding: 850px;*/
+}
+/*#frustrated{*/
+    /*position: absolute;*/
+    /*right: 200px;*/
+    /*padding: 850px;*/
+/*}*/
+/*#bossbitch{*/
+    /*position:absolute;*/
+    /*left: 50px;*/
+    /*padding: 850px;*/
+/*}*/
+#flirty{
+    position: absolute;
+    right: 350px;
+    padding: 400px;
+}
+#sexy{
+    position: absolute;
+    right:50px;
+    padding: 100px;
+}
+.table{
+    position: absolute;
+    left: 50%;
+}
+
+
+
+
+
+
+
+
